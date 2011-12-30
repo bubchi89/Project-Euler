@@ -1,0 +1,6 @@
+Project Euler solutions
+Author: Robert Liu
+
+My solutions for the first few Project Euler problems from www.projecteuler.net.
+Some are clever, most of them are just brute force with some optimization. I
+reimplemented parts of arbitrary precision arithmetic multiple times.
